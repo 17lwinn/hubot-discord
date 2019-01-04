@@ -14,9 +14,6 @@
   "peerDependencies": {
     "hubot": ">=2.0"
   },
-  "devDependencies": {
-    "coffee-script": ">=1.2.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/thetimpanist/hubot-discord"
